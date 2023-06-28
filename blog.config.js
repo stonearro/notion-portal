@@ -1,8 +1,8 @@
 // 注: process.env.XX是Vercel的环境变量，配置方式见：https://docs.tangly1024.com/zh/features/personality
 const BLOG = {
   // Important page_id！！！Duplicate Template from  https://dingliu.notion.site/ab0a943569994d4dac927d51aa0babf6
-  WEBSITE_NOTION_PAGE_ID: process.env.WEBSITE_NOTION_PAGE_ID || 'dd6ceea36f244c23afdd6380d1bb781b',
-  LINKS_NOTION_PAGE_ID: process.env.LINKS_NOTION_PAGE_ID || '2274bcbbab7b4cd6a5b9c7b2876afda8',
+  WEBSITE_NOTION_PAGE_ID: process.env.WEBSITE_NOTION_PAGE_ID || '6b62c222ec4c4feb88c061999d292f93',
+  LINKS_NOTION_PAGE_ID: process.env.LINKS_NOTION_PAGE_ID || 'f2937e04e9fd482d843af5d1ffbebfaa',
 
   LINKS_CATEGORY_LEVELS: ['category1', 'category2'],
 
